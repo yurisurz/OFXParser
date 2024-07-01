@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "consoleApp\ConsoleApp.csproj", "{50349213-44C3-4912-916B-5574F3CCC692}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OFXParser", "library\OFXParser.csproj", "{B09D06AC-C6CA-48CD-A8CC-34AF594D6447}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tests", "tests\tests.csproj", "{8B16AEB9-1708-422A-8DE2-99A0328BAAF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50349213-44C3-4912-916B-5574F3CCC692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50349213-44C3-4912-916B-5574F3CCC692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50349213-44C3-4912-916B-5574F3CCC692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50349213-44C3-4912-916B-5574F3CCC692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B09D06AC-C6CA-48CD-A8CC-34AF594D6447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09D06AC-C6CA-48CD-A8CC-34AF594D6447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09D06AC-C6CA-48CD-A8CC-34AF594D6447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09D06AC-C6CA-48CD-A8CC-34AF594D6447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B16AEB9-1708-422A-8DE2-99A0328BAAF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B16AEB9-1708-422A-8DE2-99A0328BAAF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B16AEB9-1708-422A-8DE2-99A0328BAAF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B16AEB9-1708-422A-8DE2-99A0328BAAF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B733EE83-1494-4F7B-A75C-381AD1116BF4}
+	EndGlobalSection
+EndGlobal

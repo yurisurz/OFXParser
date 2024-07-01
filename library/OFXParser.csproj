@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>library</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Authors>Yuri Surzynskyj</Authors>
+    <Description>A package with a library can read and parse OFX files and convert it to high-level objects that any application can handle and obtain data</Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <PackageTags>sample, library, ofx, financial</PackageTags>
+  </PropertyGroup>
+
+</Project>
