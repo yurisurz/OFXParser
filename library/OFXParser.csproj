@@ -11,7 +11,7 @@
   <PropertyGroup>
     <Authors>Yuri Surzynskyj</Authors>
     <Description>A package with a library can read and parse OFX files and convert it to high-level objects that any application can handle and obtain data</Description>
-    <PackageProjectUrl></PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/yurisurz/OFXParser</PackageProjectUrl>
     <PackageTags>sample, library, ofx, financial</PackageTags>
   </PropertyGroup>
 
